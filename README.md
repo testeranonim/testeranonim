@@ -1,4 +1,3 @@
-## testeranon
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ae051d52-5198-4e3e-b660-63be6497c4a8" width="1000" alt="picture_header">
