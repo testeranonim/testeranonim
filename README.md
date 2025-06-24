@@ -7,7 +7,7 @@
 
 <div>
   <h2>💫 About me</h2>
-  <img src="https://img.shields.io/github/watchers/testeranon/testeranon.github.io?style=for-the-badge" width="200" alt="GitHub Watchers">
+  <img src="https://img.shields.io/github/watchers/testeranonim/testeranonim?style=for-the-badge" width="200" alt="GitHub Watchers">
   <br />
   <img align="right" width="370" src="https://github.com/user-attachments/assets/4057e992-ac42-4b54-9e09-3e856cd71887"/>
   
